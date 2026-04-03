@@ -276,7 +276,7 @@ custom_css = """
     .stTextInput > div > div > input {
         background: rgba(255,255,255,0.05) !important;
         border: 2px solid rgba(79,172,254,0.3) !important;
-        color: white !important; border-radius: 8px !important;
+        color: black !important; border-radius: 8px !important;
         padding: 0.75rem 1rem !important; font-size: 0.95rem !important;
         transition: all 0.3s ease !important;
         animation: borderGlow 2s ease-in-out infinite; will-change: box-shadow;
